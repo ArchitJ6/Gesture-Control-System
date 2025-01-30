@@ -6,17 +6,16 @@ This Gesture Control System allows users to control various system functions (li
 
 ## 📋 Table of Contents
 
-1. [Installation](#installation)
-2. [How it Works](#how-it-works)
-3. [Features](#features)
-4. [Supported OS](#supported-os)
-5. [Configuration](#configuration)
-6. [Cloning (Optional)](#cloning-optional)
-7. [Usage](#usage)
-8. [Components / File Structure](#components-file-structure)
-9. [Contributing](#contributing)
-10. [License](#license)
-11. [Acknowledgments](#acknowledgments)
+1. [Installation](#🚀-installation)
+2. [How it Works](#🔧-how-it-works)
+3. [Features](#🌟-features)
+4. [Supported OS](#💻-supported-os)
+5. [Cloning (Optional)](#🔄-cloning-optional)
+6. [Usage](#📦-usage)
+7. [Components / File Structure](#🗂️-components--file-structure)
+8. [Contributing](#🤝-contributing)
+9. [License](#📜-license)
+10. [Acknowledgments](#💡-acknowledgments)
 
 ---
 
